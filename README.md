@@ -7,16 +7,16 @@ It utilizes Java, Selenium WebDriver, Cucumber, and AssertJ for testing
 
 
 ### Table of Contents ###
-Table of Contents
-Project Structure
-Dependencies
-How to Run
-Cucumber Feature Files
-Step Definitions
-Base Page
-WebDriver Configuration
-Test Execution
-Test Reports
+* Table of Contents
+* Project Structure
+* Dependencies
+* How to Run
+* Cucumber Feature Files
+* Step Definitions
+* Base Page
+* WebDriver Configuration
+* Test Execution
+* Test Reports
 
 ### Project Structure ###
 The project is organized as follows:
@@ -34,6 +34,7 @@ The project is organized as follows:
 * Cucumber: Enables behavior-driven development (BDD) testing.
 * AssertJ: Provides fluent assertions for better test readability.
 * WebDriverManager: Simplifies the management of WebDriver binaries.
+* Tested with Java 11 & 17 and Maven 3.9.5
 
 
 ### How to Run ###
