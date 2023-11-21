@@ -40,7 +40,7 @@ The project is organized as follows:
 * Ensure you have Java and Maven installed on your system. Testing was executed using Java 17
 * Clone the repository to your local machine.
 * Open a terminal and navigate to the project directory.
-* Run the tests using the following command: ```mvn clean test```
+* Run the tests using the following command: ```mvn clean test``` for the path: \daft-demo\daft-search
 * The test can also be run using the Cucumber Test Runner - DevTest
 
 
