@@ -26,6 +26,7 @@ The project is organized as follows:
 * BasePage: Utility functions for WebDriver interactions.
 * src/main/resources: Contains feature files with Cucumber scenarios.
 * pom.xml: Maven Project Object Model file with dependencies and build configurations.
+* Tested with Java 11 & 17 and Maven 3.9.5
 
 
 ### Dependencies ###
@@ -39,8 +40,8 @@ The project is organized as follows:
 * Ensure you have Java and Maven installed on your system. Testing was executed using Java 17
 * Clone the repository to your local machine.
 * Open a terminal and navigate to the project directory.
-* Run the tests using the following command: mvn clean install
-* Test can also be run using the Cucumber Test Runner - DevTest
+* Run the tests using the following command: ```mvn clean test```
+* The test can also be run using the Cucumber Test Runner - DevTest
 
 
 
